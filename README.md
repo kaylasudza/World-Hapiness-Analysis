@@ -16,3 +16,9 @@ Three regression models were compared: Linear Regression, Logistic Regression, a
 ## Exploratory Data Analysis (EDA):
 
 Scatter plots and statistical tests were used to explore relationships between happiness and its influencing factors. Tests for normality, homoscedasticity, independence, and multicollinearity were conducted.
+
+
+# Key Findings:
+GDP, CPI, and Health are the most significant factors affecting happiness.
+Linear regression outperformed the other models, making it the best fit for this dataset based on R-Squared and RSE values.
+This research helps identify the main factors influencing happiness and suggests that improving GDP, reducing corruption (CPI), and enhancing health outcomes may increase happiness globally.
